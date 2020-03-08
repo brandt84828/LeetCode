@@ -1,2 +1,2 @@
-# leetcode
-leetcode,use Python3 and Java
+# Pratice
+use Python3 and Java
