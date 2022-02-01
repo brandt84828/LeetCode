@@ -4,12 +4,30 @@ class Program
         static void Main(string[] args)	
         {
 
-            int[] nums = new int[]{2,4,2,3,5,4,9,8,7};
-            HashSet<int> set = new HashSet<int>(nums);
+           string haystack = "hello";
+           string needle = "ll";
 
-            if(set.Count<nums.Length)
-            {
-                Console.WriteLine("Dup");
-            }
+           for(int i=0;i<haystack.Length-needle.Length;i++)
+           {
+               int count = 0;
+               
+               for(int j=0;j<needle.Length;j++)
+               {
+                   if(haystack[i+j]==needle[j])
+                   {
+                       count++;
+                   }
+                   else
+                   {
+                       break;
+                   }
+               }
+
+               if(count==needle.Length)
+               {
+                   return i;
+               }
+
+           }
         }
     }
