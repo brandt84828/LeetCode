@@ -4,16 +4,12 @@ class Program
         static void Main(string[] args)	
         {
 
-           string columnTitle = "ZY";
-           int ans = 0;
 
-           foreach(char c in columnTitle)
-           {
-               int d = c - 'A' + 1;
+            int [] nums = new int[5]{1,2,3,1,4};
+            int k = 2 ;
+            Dictionary<int,int> map = new Dictionary<int, int>();
 
-               ans = ans * 26 + d;
-           }
+           
 
-           Console.WriteLine(ans);
         }
     }
