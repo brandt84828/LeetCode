@@ -4,30 +4,16 @@ class Program
         static void Main(string[] args)	
         {
 
-           string haystack = "hello";
-           string needle = "ll";
+           string columnTitle = "ZY";
+           int ans = 0;
 
-           for(int i=0;i<haystack.Length-needle.Length;i++)
+           foreach(char c in columnTitle)
            {
-               int count = 0;
-               
-               for(int j=0;j<needle.Length;j++)
-               {
-                   if(haystack[i+j]==needle[j])
-                   {
-                       count++;
-                   }
-                   else
-                   {
-                       break;
-                   }
-               }
+               int d = c - 'A' + 1;
 
-               if(count==needle.Length)
-               {
-                   return i;
-               }
-
+               ans = ans * 26 + d;
            }
+
+           Console.WriteLine(ans);
         }
     }
