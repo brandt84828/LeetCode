@@ -19,6 +19,7 @@
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/RemoveDuplicatesFromSortedArray.cs)
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/ValidParentheses.cs)
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/ReverseInteger.cs)
+2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C#]()
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C#](https://github.com/brandt84828/leetcode/blob/198ef3a136de19df1de207387ba9875ed06af477/C%23/TwoSum.cs) |
 
 
