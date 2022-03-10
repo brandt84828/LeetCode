@@ -12,6 +12,7 @@
 public class Solution141 {
     public bool HasCycle(ListNode head) {
         
+    
         ListNode slow = head;
         ListNode fast = head;
         

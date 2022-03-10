@@ -15,6 +15,7 @@
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C#]
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/SingleNumber.cs)
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/ValidPalindrome.cs)
+121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C#]
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C#](https://github.com/brandt84828/leetcode/blob/27d5d57513206e842d58a706fa99a1731cb015c3/C%23/MergeSortedArray.cs)
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C#](https://github.com/brandt84828/leetcode/blob/50b26283d8ce2ed9fedc4d401510eeec111e685f/C%23/Remove%20Duplicates%20from%20Sorted%20List.cs)
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C#](https://github.com/brandt84828/leetcode/blob/7bffce70a1682fd012a6ab7a332f3d05931d3155/C%23/Climbing%20Stairs.cs)
