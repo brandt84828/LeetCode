@@ -5,7 +5,7 @@ public class Solution121 {
         int pist = 0;
         
         for(int i = 0; i < prices.Length; i++){
-            if(prices[i] < lsf){
+            if (prices[i] < lsf){
                 lsf = prices[i];
             }
             pist = prices[i] - lsf;
