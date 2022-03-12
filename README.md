@@ -3,7 +3,7 @@
 
 \#           | Title  | Solution |
 :--------------:|:-----:|:-----:|
-700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [C#]
+700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [C#](https://github.com/brandt84828/leetcode/blob/cfbdf0ff268840a0b526ab072c3ef9bc5c650d1e/C%23/Search%20in%20a%20Binary%20Search%20Tree.cs)
 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C#](https://github.com/brandt84828/leetcode/blob/7bffce70a1682fd012a6ab7a332f3d05931d3155/C%23/FizzBuzz.cs)
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/FirstUniqueCharacterInAString.cs)
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C#](https://github.com/brandt84828/leetcode/blob/27d5d57513206e842d58a706fa99a1731cb015c3/C%23/ReverseString.cs)
