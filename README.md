@@ -32,7 +32,7 @@
 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C#](https://github.com/brandt84828/leetcode/blob/c8b82b2b93c2a7d48c535a6308a2e82520f8dea9/C%23/Swap%20Nodes%20in%20Pairs.cs)
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C#](https://github.com/brandt84828/leetcode/blob/dc21fdea062812ea38363f6684a66bdd4c3c2f47/C%23/Merge%20Two%20Sorted%20Lists.cs)
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/ValidParentheses.cs)
-16 | [3Sum Closets](https://leetcode.com/problems/3sum-closest/) | [C#]()
+16 | [3Sum Closets](https://leetcode.com/problems/3sum-closest/) | [C#](https://github.com/brandt84828/leetcode/blob/78d568511919c9158aaa497422bd215cfcc80782/C%23/3Sum%20Closest.cs)
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C#](https://github.com/brandt84828/leetcode/blob/15b4e7d61cdadd9113dd080dc33d115c5ee02025/C%23/Container%20With%20Most%20Water.cs)
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/ReverseInteger.cs)
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C#](https://github.com/brandt84828/leetcode/blob/0015eeb725bcc4c47e57fc889381cee7d6f9b6a6/C%23/Longest%20Substring%20Without%20Repeating%20Characters.cs)
