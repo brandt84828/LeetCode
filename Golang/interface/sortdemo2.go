@@ -33,6 +33,13 @@ func (hs HeroSlice) Swap(i, j int) {
 	//更快速的方法(等同上面3句) hs[i], hs[j] = hs[j], hs[i]
 }
 
+// 按照Score由小到大排序
+type Student struct {
+	Name  string
+	Age   int
+	Score float64
+}
+
 func main() {
 	//先定義切片
 	var intSlice = []int{0, -1, 10, 7, 90}
@@ -62,10 +69,5 @@ func main() {
 	for _, v := range heroes {
 		fmt.Println(v)
 	}
-
-	i := 10
-	j := 20
-	i, j = j, i
-	fmt.Println("i=", i, "j=", j) //i=20 j=10
 
 }
