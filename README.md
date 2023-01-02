@@ -10,6 +10,7 @@
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C#](https://github.com/brandt84828/leetcode/blob/27d5d57513206e842d58a706fa99a1731cb015c3/C%23/ReverseString.cs)
 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/MoveZeros.cs)
 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/MissingNumber.cs)
+242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./Python3/ValidAnagram.py) / [Go](./Golang/ValidAnagram.go)| 
 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C#](https://github.com/brandt84828/leetcode/blob/e60d4746789a47e828248e6cfcac012f2f10a7c1/C%23/Delete%20Node%20in%20a%20Linked%20List.cs)
 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [C#](https://github.com/brandt84828/leetcode/blob/23ded447136704a85494852af7d741d9e10aba08/C%23/ContainDuplcateTwo.cs)
 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C#](./C%23/ContainDuplcate.cs) / [Python](./Python3/ContainsDuplicate.py) / [Go](./Golang/ContainsDuplicate.go)|
