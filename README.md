@@ -37,7 +37,7 @@
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/ReverseInteger.cs)
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C#](https://github.com/brandt84828/leetcode/blob/0015eeb725bcc4c47e57fc889381cee7d6f9b6a6/C%23/Longest%20Substring%20Without%20Repeating%20Characters.cs)
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C#](https://github.com/brandt84828/leetcode/blob/fe789dca8bfa162c4e8b2255d0234c19262540ed/C%23/AddTwoNumbers.cs)
-1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C#](./C%23/TwoSum.cs) / [Python](./Python3/TwoSum.py) / [Go](./Golang/Two%20Sum.go)| 
+1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C#](./C%23/TwoSum.cs) / [Python](./Python3/TwoSum.py) / [Go](./Golang/TwoSum.go)| 
 
 
 #### Others
