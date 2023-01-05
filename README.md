@@ -17,9 +17,10 @@
 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C#](./C%23/ContainDuplcate.cs) / [Python](./Python3/ContainsDuplicate.py) / [Go](./Golang/ContainsDuplicate.go)|
 207 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C#](https://github.com/brandt84828/leetcode/blob/e60d4746789a47e828248e6cfcac012f2f10a7c1/C%23/Remove%20Linked%20List%20Elements.cs)
 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [C#](https://github.com/brandt84828/leetcode/blob/a62f2d467f9ab5b172821a985376e0272dae9eab/C%23/Happy%20Number.cs)
+191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python](./Python3/NumberOf1Bits.py) / [Go](./Golang/NumberOf1Bits.go) |
 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C#](https://github.com/brandt84828/leetcode/blob/d775dc97d2ea79aee01d6b942d3e0e6d7fb66b37/C%23/ExcelSheetColumnNumber.cs)
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C#](https://github.com/brandt84828/leetcode/blob/bb7e4421fb51f376ee2c975728cf1f5bf1072bb6/C%23/Linked%20List%20Cycle.cs)
-136 | [Single Number](https://leetcode.com/problems/single-number/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/SingleNumber.cs)
+136 | [Single Number](https://leetcode.com/problems/single-number/) | [C#](./C%23/SingleNumber.cs) / [Python](./Python3/SingleNumber.py) / [Go](./Golang/SingleNumber.go) |
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C#](./C%23/ValidPalindrome.cs) / [Python](./Python3/ValidPalindrome.py) / [Go](./Golang/ValidPalindrome.go) |
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C#](https://github.com/brandt84828/leetcode/blob/1b63e83597ec6f6af1460f0ea9e321e269b8bbe8/C%23/Best%20Time%20to%20Buy%20and%20Sell%20Stock.cs)
 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C#](https://github.com/brandt84828/leetcode/blob/325df75e91cee4bedee2bb15bef7d5b5fd0bdf9e/C%23/Minimum%20Depth%20of%20Binary%20Tree.cs)
