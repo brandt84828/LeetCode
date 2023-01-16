@@ -34,6 +34,7 @@
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C#](https://github.com/brandt84828/leetcode/blob/50b26283d8ce2ed9fedc4d401510eeec111e685f/C%23/Remove%20Duplicates%20from%20Sorted%20List.cs)
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C#](https://github.com/brandt84828/leetcode/blob/7bffce70a1682fd012a6ab7a332f3d05931d3155/C%23/Climbing%20Stairs.cs)
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Python3/PlusOne.py) / [Go](./Golang/PlusOne.go) |
+49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./Python3/GroupAnagrams.py) / [Go](./Python3/GroupAnagrams.py) |
 28 | [Implement strStr](https://leetcode.com/problems/implement-strstr/) | [C#](https://github.com/brandt84828/leetcode/blob/27d5d57513206e842d58a706fa99a1731cb015c3/C%23/strStr.cs)
 27 | [Remove Elements](https://leetcode.com/problems/remove-element/) | [C#](https://github.com/brandt84828/leetcode/blob/082d0af1c916a634d0c1a886b0b8c577f6d46514/C%23/Remove%20Element.cs)
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/RemoveDuplicatesFromSortedArray.cs)
