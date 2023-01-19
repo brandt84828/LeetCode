@@ -42,7 +42,8 @@
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C#](https://github.com/brandt84828/leetcode/blob/dc21fdea062812ea38363f6684a66bdd4c3c2f47/C%23/Merge%20Two%20Sorted%20Lists.cs)
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C#](./C%23/ValidParentheses.cs) / [Python](./Python3/ValidParentheses.py) / [Go](./Golang/ValidParentheses.go) |
 16 | [3Sum Closets](https://leetcode.com/problems/3sum-closest/) | [C#](https://github.com/brandt84828/leetcode/blob/78d568511919c9158aaa497422bd215cfcc80782/C%23/3Sum%20Closest.cs)
-11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C#](https://github.com/brandt84828/leetcode/blob/15b4e7d61cdadd9113dd080dc33d115c5ee02025/C%23/Container%20With%20Most%20Water.cs)
+11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C#](https://github.com/brandt84828/leetcode/blob/15b4e7d61cdadd9113dd080dc33d115c5ee02025/C%23/Container%20With%20Most%20Water.cs)\
+9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./Python3/PalindromeNumber.py) / [Go](./Golang/PalindromeNumber.go) |
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/ReverseInteger.cs)
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C#](./C%23/Longest%20Substring%20Without%20Repeating%20Characters.cs) / [Python](./Python3/LongestSubstringWithoutRepeatingCharacters.py) / [Go](./Golang/LongestSubstringWithoutRepeatingCharacters.go) |
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C#](./C%23/AddTwoNumbers.cs) / [Python](./Python3/AddTwoNumber.py) / [Go](./Golang/AddTwoNumber.go) |
