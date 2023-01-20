@@ -42,6 +42,7 @@
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C#](https://github.com/brandt84828/leetcode/blob/dc21fdea062812ea38363f6684a66bdd4c3c2f47/C%23/Merge%20Two%20Sorted%20Lists.cs)
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C#](./C%23/ValidParentheses.cs) / [Python](./Python3/ValidParentheses.py) / [Go](./Golang/ValidParentheses.go) |
 16 | [3Sum Closets](https://leetcode.com/problems/3sum-closest/) | [C#](https://github.com/brandt84828/leetcode/blob/78d568511919c9158aaa497422bd215cfcc80782/C%23/3Sum%20Closest.cs)
+14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./Python3/LongestCommonPrefix.py) / [Go](./Golang/LongestCommonPrefix.go) |
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./Python3/RomanToInteger.py) / [Go](./Golang/RomanToInteger.go) |
 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](./Python3/IntegerToRoman.py) / [Go](./Golang/IntegerToRoman.go) |
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C#](./C%23/Container%20With%20Most%20Water.cs) / [Python](./Python3/ContainerWithMostWater.py) / [Go](./Golang/ContainerWithMostWater.go) |
