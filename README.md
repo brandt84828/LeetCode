@@ -41,7 +41,7 @@
 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C#](https://github.com/brandt84828/leetcode/blob/c8b82b2b93c2a7d48c535a6308a2e82520f8dea9/C%23/Swap%20Nodes%20in%20Pairs.cs)
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C#](https://github.com/brandt84828/leetcode/blob/dc21fdea062812ea38363f6684a66bdd4c3c2f47/C%23/Merge%20Two%20Sorted%20Lists.cs)
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C#](./C%23/ValidParentheses.cs) / [Python](./Python3/ValidParentheses.py) / [Go](./Golang/ValidParentheses.go) |
-16 | [3Sum Closets](https://leetcode.com/problems/3sum-closest/) | [C#](https://github.com/brandt84828/leetcode/blob/78d568511919c9158aaa497422bd215cfcc80782/C%23/3Sum%20Closest.cs)
+16 | [3Sum Closets](https://leetcode.com/problems/3sum-closest/) | [C#](./C%23/3Sum%20Closest.cs) / [Python](./C%23/3Sum%20Closest.cs) / [Go](./Golang/ThreeSum%20Closest.go) |
 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](./Python3/ThreeSum.py) / [Go](./Golang/ThreeSum.go) | 
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./Python3/LongestCommonPrefix.py) / [Go](./Golang/LongestCommonPrefix.go) |
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./Python3/RomanToInteger.py) / [Go](./Golang/RomanToInteger.go) |
