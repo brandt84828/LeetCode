@@ -41,6 +41,7 @@
 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C#](https://github.com/brandt84828/leetcode/blob/c8b82b2b93c2a7d48c535a6308a2e82520f8dea9/C%23/Swap%20Nodes%20in%20Pairs.cs)
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C#](https://github.com/brandt84828/leetcode/blob/dc21fdea062812ea38363f6684a66bdd4c3c2f47/C%23/Merge%20Two%20Sorted%20Lists.cs)
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C#](./C%23/ValidParentheses.cs) / [Python](./Python3/ValidParentheses.py) / [Go](./Golang/ValidParentheses.go) |
+19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./Python3/Remove%20Nth%20Node%20From%20End%20of%20List.py) / [Go](./Golang/Remove%20Nth%20Node%20From%20End%20of%20List.go) |
 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Python](./Python3/FourSum.py) / [Go](./Golang/FourSum.go) |
 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./Python3/Letter%20Combinations%20of%20a%20Phone%20Number.py) / [Go](./Golang/Letter%20Combinations%20of%20a%20Phone%20Number.go) |
 16 | [3Sum Closets](https://leetcode.com/problems/3sum-closest/) | [C#](./C%23/3Sum%20Closest.cs) / [Python](./C%23/3Sum%20Closest.cs) / [Go](./Golang/ThreeSum%20Closest.go) |
