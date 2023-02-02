@@ -35,7 +35,7 @@
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C#](https://github.com/brandt84828/leetcode/blob/7bffce70a1682fd012a6ab7a332f3d05931d3155/C%23/Climbing%20Stairs.cs)
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Python3/PlusOne.py) / [Go](./Golang/PlusOne.go) |
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./Python3/GroupAnagrams.py) / [Go](./Python3/GroupAnagrams.py) |
-28 | [Implement strStr](https://leetcode.com/problems/implement-strstr/) | [C#](https://github.com/brandt84828/leetcode/blob/27d5d57513206e842d58a706fa99a1731cb015c3/C%23/strStr.cs)
+28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/implement-strstr/) | [C#](./C%23/strStr.cs) / [Python](./Python3/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.py) / [Go](./Golang/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.go) |
 27 | [Remove Elements](https://leetcode.com/problems/remove-element/) | [C#](./C%23/Remove%20Element.cs) / [Python](./Python3/Remove%20Element.py) / [Go](./Golang/Remove%20Element.go) |
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/RemoveDuplicatesFromSortedArray.cs)
 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C#](./C%23/Swap%20Nodes%20in%20Pairs.cs) / [Python](./Python3/Swap%20Nodes%20in%20Pairs.py) / [Go](./Golang/Swap%20Nodes%20in%20Pairs.go) |
