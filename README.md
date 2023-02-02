@@ -36,7 +36,7 @@
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Python3/PlusOne.py) / [Go](./Golang/PlusOne.go) |
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./Python3/GroupAnagrams.py) / [Go](./Python3/GroupAnagrams.py) |
 28 | [Implement strStr](https://leetcode.com/problems/implement-strstr/) | [C#](https://github.com/brandt84828/leetcode/blob/27d5d57513206e842d58a706fa99a1731cb015c3/C%23/strStr.cs)
-27 | [Remove Elements](https://leetcode.com/problems/remove-element/) | [C#](https://github.com/brandt84828/leetcode/blob/082d0af1c916a634d0c1a886b0b8c577f6d46514/C%23/Remove%20Element.cs)
+27 | [Remove Elements](https://leetcode.com/problems/remove-element/) | [C#](./C%23/Remove%20Element.cs) / [Python](./Python3/Remove%20Element.py) / [Go](./Golang/Remove%20Element.go) |
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/RemoveDuplicatesFromSortedArray.cs)
 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C#](./C%23/Swap%20Nodes%20in%20Pairs.cs) / [Python](./Python3/Swap%20Nodes%20in%20Pairs.py) / [Go](./Golang/Swap%20Nodes%20in%20Pairs.go) |
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C#](./C%23/Merge%20Two%20Sorted%20Lists.cs) / [Python](./Python3/Merge%20Two%20Sorted%20Lists.py) / [Go](./Golang/Merge%20Two%20Sorted%20Lists.go) | 
