@@ -14,6 +14,7 @@
 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/MoveZeros.cs)
 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C#](./C%23/MissingNumber.cs) / [Python](./Python3/MissingNumber.py) / [Go](./Golang/MissingNumber.go) |
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./Python3/ValidAnagram.py) / [Go](./Golang/ValidAnagram.go)| 
+238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./Python3/Product%20of%20Array%20Except%20Self.py) / [Go](./Golang/Product%20of%20Array%20Except%20Self.go) |
 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C#](https://github.com/brandt84828/leetcode/blob/e60d4746789a47e828248e6cfcac012f2f10a7c1/C%23/Delete%20Node%20in%20a%20Linked%20List.cs)
 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](./Python3/InvertBinaryTree.py) / [Go](./Golang/InvertBinaryTree.go) |
 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [C#](https://github.com/brandt84828/leetcode/blob/23ded447136704a85494852af7d741d9e10aba08/C%23/ContainDuplcateTwo.cs)
@@ -32,7 +33,7 @@
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C#](./C%23/Same%20Tree.cs) / [Python](./Python3/SameTree.py) / [Go](./Golang/SameTree.go) |
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C#](./C%23/Merge%20Two%20Sorted%20Lists.cs) / [Python](./Python3/Merge%20Sorted%20Array.py) / [Go](./Golang/Merge%20Sorted%20Array.go) |
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C#](https://github.com/brandt84828/leetcode/blob/50b26283d8ce2ed9fedc4d401510eeec111e685f/C%23/Remove%20Duplicates%20from%20Sorted%20List.cs)
-70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C#](https://github.com/brandt84828/leetcode/blob/7bffce70a1682fd012a6ab7a332f3d05931d3155/C%23/Climbing%20Stairs.cs)
+70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C#](./C%23/Climbing%20Stairs.cs) / 
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Python3/PlusOne.py) / [Go](./Golang/PlusOne.go) |
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./Python3/GroupAnagrams.py) / [Go](./Python3/GroupAnagrams.py) |
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./Python3/Search%20Insert%20Position.py) / [Go](./Golang/Search%20Insert%20Position.go) |
