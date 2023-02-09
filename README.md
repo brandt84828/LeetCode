@@ -30,12 +30,13 @@
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C#](./C%23/SingleNumber.cs) / [Python](./Python3/SingleNumber.py) / [Go](./Golang/SingleNumber.go) |
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C#](./C%23/ValidPalindrome.cs) / [Python](./Python3/ValidPalindrome.py) / [Go](./Golang/ValidPalindrome.go) |
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C#](https://github.com/brandt84828/leetcode/blob/1b63e83597ec6f6af1460f0ea9e321e269b8bbe8/C%23/Best%20Time%20to%20Buy%20and%20Sell%20Stock.cs)
-111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C#](https://github.com/brandt84828/leetcode/blob/325df75e91cee4bedee2bb15bef7d5b5fd0bdf9e/C%23/Minimum%20Depth%20of%20Binary%20Tree.cs)
+111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C#](https://github.com/brandt84828/leetcode/blob/325df75e91cee4bedee2bb15bef7d5b5fd0bdf9e/C%23/Minimum%20Depth%20of%20Binary%20Tree.cs) |
+110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](./Python3/Balanced%20Binary%20Tree.py) / [Go](./Golang/Balanced%20Binary%20Tree.go) |
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C#](./C%23/Maximum%20Depth%20of%20Binary%20Tree.cs) / [Python](./Python3/MaximumDepthOfBinaryTree.py) / [Go](./Golang/MaximumDepthOfBinaryTree.go) |
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C#](./C%23/Same%20Tree.cs) / [Python](./Python3/SameTree.py) / [Go](./Golang/SameTree.go) |
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C#](./C%23/Merge%20Two%20Sorted%20Lists.cs) / [Python](./Python3/Merge%20Sorted%20Array.py) / [Go](./Golang/Merge%20Sorted%20Array.go) |
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C#](https://github.com/brandt84828/leetcode/blob/50b26283d8ce2ed9fedc4d401510eeec111e685f/C%23/Remove%20Duplicates%20from%20Sorted%20List.cs)
-70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C#](./C%23/Climbing%20Stairs.cs) / 
+70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C#](./C%23/Climbing%20Stairs.cs) / [Python](./Python3/Climbing%20Stairs.py) / [Go](./Golang/Climbing%20Stairs.go) | 
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Python3/PlusOne.py) / [Go](./Golang/PlusOne.go) |
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./Python3/GroupAnagrams.py) / [Go](./Python3/GroupAnagrams.py) |
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./Python3/Search%20Insert%20Position.py) / [Go](./Golang/Search%20Insert%20Position.go) |
