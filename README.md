@@ -4,6 +4,7 @@
 \#           | Title  | Solution |
 :--------------:|:-----:|:-----:|
 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [C#](https://github.com/brandt84828/leetcode/blob/d0dc95bd703953ed1b78aefd2b815a7cedb8c5cb/C%23/Validate%20Stack%20Sequences.cs)
+746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](./Python3/Min%20Cost%20Climbing%20Stairs.py) / [Go](./Golang/Min%20Cost%20Climbing%20Stairs.go) |
 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./Python3/BinarySearch.py) / [Go](./Golang/BinarySearch.go) |
 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [C#](https://github.com/brandt84828/leetcode/blob/cfbdf0ff268840a0b526ab072c3ef9bc5c650d1e/C%23/Search%20in%20a%20Binary%20Search%20Tree.cs)
 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./Python3/DiameterOfBinaryTree.py) / [Go](./Golang/DiameterOfBinaryTree.go) |
