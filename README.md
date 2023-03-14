@@ -30,6 +30,7 @@
 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./Python3/Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) / [Go](./Golang/Find%20Minimum%20in%20Rotated%20Sorted%20Array.go) |
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C#](https://github.com/brandt84828/leetcode/blob/bb7e4421fb51f376ee2c975728cf1f5bf1072bb6/C%23/Linked%20List%20Cycle.cs)
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C#](./C%23/SingleNumber.cs) / [Python](./Python3/SingleNumber.py) / [Go](./Golang/SingleNumber.go) |
+129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Python](./Python3/Sum%20Root%20to%20Leaf%20Numbers.py) / [Go](./Golang/Sum%20Root%20to%20Leaf%20Numbers.go) |
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C#](./C%23/ValidPalindrome.cs) / [Python](./Python3/ValidPalindrome.py) / [Go](./Golang/ValidPalindrome.go) |
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C#](./C%23/Best%20Time%20to%20Buy%20and%20Sell%20Stock.cs) / [Python](./Python3/Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) / [Go](./Python3/Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) |
 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C#](https://github.com/brandt84828/leetcode/blob/325df75e91cee4bedee2bb15bef7d5b5fd0bdf9e/C%23/Minimum%20Depth%20of%20Binary%20Tree.cs) |
