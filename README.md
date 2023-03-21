@@ -3,6 +3,7 @@
 
 \#           | Title  | Solution |
 :--------------:|:-----:|:-----:|
+2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Python](./Python3/Number%20of%20Zero-Filled%20Subarrays.py) / [Go](./Golang/Number%20of%20Zero-Filled%20Subarrays.go) |
 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Python](./Python3/Check%20Completeness%20of%20a%20Binary%20Tree.py) / [Go](./Golang/Check%20Completeness%20of%20a%20Binary%20Tree.go) |
 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [C#](https://github.com/brandt84828/leetcode/blob/d0dc95bd703953ed1b78aefd2b815a7cedb8c5cb/C%23/Validate%20Stack%20Sequences.cs)
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](./Python3/Min%20Cost%20Climbing%20Stairs.py) / [Go](./Golang/Min%20Cost%20Climbing%20Stairs.go) |
