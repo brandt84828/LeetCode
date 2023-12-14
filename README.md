@@ -4,7 +4,7 @@
 \#           | Title  | Solution |
 :--------------:|:-----:|:-----:|
 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Python](./Python3/Number%20of%20Zero-Filled%20Subarrays.py) / [Go](./Golang/Number%20of%20Zero-Filled%20Subarrays.go) |
-1480 | [Running Sum Of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | [Python](./Python3/Running%20Sum%20Of%201D%20Array.py) / [Go](./Golang/Running%20Sum%20Of%201D%20Array.go) |
+1480 | [Running Sum Of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | [Python](./Python3/Running%20Sum%20of%201d%20Array.py) / [Go](./Golang/Running%20Sum%20of%201d%20Array.go) |
 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [Python](./Python3/Number%20of%20Operations%20to%20Make%20Network%20Connected.py) / [Go](./Golang/Number%20of%20Operations%20to%20Make%20Network%20Connected.go) |
 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Python](./Python3/Check%20Completeness%20of%20a%20Binary%20Tree.py) / [Go](./Golang/Check%20Completeness%20of%20a%20Binary%20Tree.go) |
 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [C#](https://github.com/brandt84828/leetcode/blob/d0dc95bd703953ed1b78aefd2b815a7cedb8c5cb/C%23/Validate%20Stack%20Sequences.cs)
