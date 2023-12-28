@@ -18,6 +18,7 @@
 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./Python3/DiameterOfBinaryTree.py) / [Go](./Golang/DiameterOfBinaryTree.go) |
 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C#](https://github.com/brandt84828/leetcode/blob/7bffce70a1682fd012a6ab7a332f3d05931d3155/C%23/FizzBuzz.cs) / [Python](./Python3/Fizz%20Buzz.py) / [Go](./Golang/Fizz%20Buzz.go) |
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/FirstUniqueCharacterInAString.cs)
+383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Python](./Python3/Ransom%20Note.py) / [Go](./Golang/Ransom%20Note.go) |
 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./Python3/Top_K_FrequentElements.py) / [Go](./Golang/Top_K_FrequentElements.go) |
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C#](https://github.com/brandt84828/leetcode/blob/27d5d57513206e842d58a706fa99a1731cb015c3/C%23/ReverseString.cs)
 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/MoveZeros.cs)
