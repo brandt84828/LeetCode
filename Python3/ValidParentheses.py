@@ -30,3 +30,20 @@ class Solution:
                 return False
 
         return len(stack)==0
+
+#3
+
+class Solution:
+    def isValid(self, s: str) -> bool:
+        mapping = {")":"(", "]":"[", "}":"{"}
+        stack=[]
+
+        for c in s:
+            if c in mapping and len(stack) > 0:
+                v = stack.pop()
+                if mapping[c] != v:
+                    return False
+            else:
+                stack.append(c)
+        
+        return len(stack) == 0
