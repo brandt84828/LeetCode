@@ -1,20 +1,10 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug 15 19:58:04 2018
-
-@author: brandt84828
-"""
-
-a = 'A man, a plan, a canal: Panama'
-
-result=''
-
-for i in range(len(a)-1,-1,-1):
-    result = result + a[i]
-    
-    
-print(result)
-
-
-
-#Also can use a[::-1] , very simple
+class Solution:
+    def reverseString(self, s: List[str]) -> None:
+        """
+        Do not return anything, modify s in-place instead.
+        """
+        i , j = 0, len(s)-1
+        while(i < j):
+            s[i], s[j] = s[j], s[i]
+            i=i+1
+            j=j-1
