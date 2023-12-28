@@ -16,3 +16,6 @@ class Solution:
                 nums1[k] = nums2[j]
                 k = k - 1
                 j = j - 1
+
+'透過k從尾巴開始更新array的值
+'透過雙指針去比對nums1 & nums2並同時控制k的位置
