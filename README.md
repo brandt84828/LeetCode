@@ -11,6 +11,7 @@
 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./Python3/Squares%20of%20a%20Sorted%20Array.py) / [Go](./Golang/Squares%20of%20a%20Sorted%20Array.go) |
 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Python](./Python3/Check%20Completeness%20of%20a%20Binary%20Tree.py) / [Go](./Golang/Check%20Completeness%20of%20a%20Binary%20Tree.go) |
 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [C#](https://github.com/brandt84828/leetcode/blob/d0dc95bd703953ed1b78aefd2b815a7cedb8c5cb/C%23/Validate%20Stack%20Sequences.cs)
+771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](./Python3/Jewels%20and%20Stones.py) / [Go](./Golang/Jewels%20and%20Stones.go) |
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](./Python3/Min%20Cost%20Climbing%20Stairs.py) / [Go](./Golang/Min%20Cost%20Climbing%20Stairs.go) |
 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./Python3/Daily%20Temperatures.py) / [Go](./Golang/Daily%20Temperatures.go) |
 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./Python3/BinarySearch.py) / [Go](./Golang/BinarySearch.go) |
