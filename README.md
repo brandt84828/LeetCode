@@ -5,6 +5,7 @@
 :--------------:|:-----:|:-----:|
 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Python](./Python3/Number%20of%20Zero-Filled%20Subarrays.py) / [Go](./Golang/Number%20of%20Zero-Filled%20Subarrays.go) |
 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Python](./Python3/Richest%20Customer%20Wealth.py) / [Go](./Golang/Richest%20Customer%20Wealth.go) |
+1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/description/) | [Python](./Python3/Make%20The%20String%20Great.py) / [Go](./Golang/Make%20The%20String%20Great.go)
 1480 | [Running Sum Of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | [Python](./Python3/Running%20Sum%20of%201d%20Array.py) / [Go](./Golang/Running%20Sum%20of%201d%20Array.go) |
 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/) | [Python](./Python3/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.py) / [Go](./Golang/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.go) |
 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [Python](./Python3/Number%20of%20Operations%20to%20Make%20Network%20Connected.py) / [Go](./Golang/Number%20of%20Operations%20to%20Make%20Network%20Connected.go) |
