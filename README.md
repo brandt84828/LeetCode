@@ -3,6 +3,7 @@
 
 \#           | Title  | Solution |
 :--------------:|:-----:|:-----:|
+3000 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [Python](./Python3/Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle.py) / [Go](./Golang/Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle.go) |
 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Python](./Python3/Number%20of%20Zero-Filled%20Subarrays.py) / [Go](./Golang/Number%20of%20Zero-Filled%20Subarrays.go) |
 2027 | [Minimum Moves to Convert String]() | [Python]() / [Go]() |
 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Python](./Python3/Check%20if%20the%20Sentence%20Is%20Pangram.py) / [Go](./Golang/Check%20if%20the%20Sentence%20Is%20Pangram.go) |
