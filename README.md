@@ -45,7 +45,7 @@
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python](./Python3/House%20Robber.py) / [Go](./Golang/House%20Robber.go) |
 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python](./Python3/NumberOf1Bits.py) / [Go](./Golang/NumberOf1Bits.go) |
 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python](./Python3/ReverseBits.py) / [Go](./Golang/ReverseBits.go) |
-171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C#](https://github.com/brandt84828/leetcode/blob/d775dc97d2ea79aee01d6b942d3e0e6d7fb66b37/C%23/ExcelSheetColumnNumber.cs)
+171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C#](https://github.com/brandt84828/leetcode/blob/d775dc97d2ea79aee01d6b942d3e0e6d7fb66b37/C%23/ExcelSheetColumnNumber.cs) / [Python]() / [Go]() |
 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./Python3/Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) / [Go](./Golang/Find%20Minimum%20in%20Rotated%20Sorted%20Array.go) |
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C#](https://github.com/brandt84828/leetcode/blob/bb7e4421fb51f376ee2c975728cf1f5bf1072bb6/C%23/Linked%20List%20Cycle.cs)
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C#](./C%23/SingleNumber.cs) / [Python](./Python3/SingleNumber.py) / [Go](./Golang/SingleNumber.go) |
@@ -60,7 +60,7 @@
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C#](https://github.com/brandt84828/leetcode/blob/50b26283d8ce2ed9fedc4d401510eeec111e685f/C%23/Remove%20Duplicates%20from%20Sorted%20List.cs)
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C#](./C%23/Climbing%20Stairs.cs) / [Python](./Python3/Climbing%20Stairs.py) / [Go](./Golang/Climbing%20Stairs.go) | 
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Python3/PlusOne.py) / [Go](./Golang/PlusOne.go) |
-62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | |
+62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./Python3/Unique%20Paths.py) / [Go](./Golang/Unique%20Paths.go) |
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./Python3/Length%20of%20Last%20Word.py) / [Go](./Golang/Length%20of%20Last%20Word.go) |
 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./Python3/Jump%20Game.py) / [Go](./Golang/Jump%20Game.go) |
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./Python3/Maximum%20Subarray.py) / [Go](./Golang/Maximum%20Subarray.go) |
