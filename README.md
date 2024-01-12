@@ -4,6 +4,7 @@
 \#           | Title  | Solution |
 :--------------:|:-----:|:-----:|
 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Python](./Python3/Number%20of%20Zero-Filled%20Subarrays.py) / [Go](./Golang/Number%20of%20Zero-Filled%20Subarrays.go) |
+2027 | [Minimum Moves to Convert String]() | [Python]() / [Go]() |
 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Python](./Python3/Check%20if%20the%20Sentence%20Is%20Pangram.py) / [Go](./Golang/Check%20if%20the%20Sentence%20Is%20Pangram.go) |
 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Python](./Python3/Richest%20Customer%20Wealth.py) / [Go](./Golang/Richest%20Customer%20Wealth.go) |
 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/description/) | [Python](./Python3/Make%20The%20String%20Great.py) / [Go](./Golang/Make%20The%20String%20Great.go)
