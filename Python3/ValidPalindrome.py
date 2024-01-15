@@ -21,7 +21,7 @@ class Solution:
             or ord("0") <= ord(c) <= ord("9")
         )
 
-# 2
+# 2 keep char and digital => use[::-1] to check palindrome
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         new = ""
