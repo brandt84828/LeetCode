@@ -7,6 +7,7 @@
 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Python](./Python3/Number%20of%20Zero-Filled%20Subarrays.py) / [Go](./Golang/Number%20of%20Zero-Filled%20Subarrays.go) |
 2027 | [Minimum Moves to Convert String]() | [Python]() / [Go]() |
 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Python](./Python3/Check%20if%20the%20Sentence%20Is%20Pangram.py) / [Go](./Golang/Check%20if%20the%20Sentence%20Is%20Pangram.go) |
+1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) | [Python]() / [Go]() |
 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Python](./Python3/Richest%20Customer%20Wealth.py) / [Go](./Golang/Richest%20Customer%20Wealth.go) |
 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/description/) | [Python](./Python3/Make%20The%20String%20Great.py) / [Go](./Golang/Make%20The%20String%20Great.go)
 1480 | [Running Sum Of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | [Python](./Python3/Running%20Sum%20of%201d%20Array.py) / [Go](./Golang/Running%20Sum%20of%201d%20Array.go) |
@@ -35,7 +36,7 @@
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C#](https://github.com/brandt84828/leetcode/blob/27d5d57513206e842d58a706fa99a1731cb015c3/C%23/ReverseString.cs) / [Python](./Python3/Reverse%20String.py) / [Go](./Golang/Reverse%20String.go) |
 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/MoveZeros.cs)
 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C#](./C%23/MissingNumber.cs) / [Python](./Python3/MissingNumber.py) / [Go](./Golang/MissingNumber.go) |
-263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python]() / [Go]() |
+263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](./Python3/Ugly%20Number.py) / [Go](./Golang/Ugly%20Number.go) |
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./Python3/ValidAnagram.py) / [Go](./Golang/ValidAnagram.go)| 
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./Python3/Product%20of%20Array%20Except%20Self.py) / [Go](./Golang/Product%20of%20Array%20Except%20Self.go) |
 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C#](https://github.com/brandt84828/leetcode/blob/e60d4746789a47e828248e6cfcac012f2f10a7c1/C%23/Delete%20Node%20in%20a%20Linked%20List.cs)
