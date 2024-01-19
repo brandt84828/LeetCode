@@ -30,6 +30,7 @@
 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Python](./Python3/Can%20Place%20Flowers.py) / [Go](./Golang/Can%20Place%20Flowers.go) |
 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./Python3/DiameterOfBinaryTree.py) / [Go](./Golang/DiameterOfBinaryTree.go) |
 496 | [Next Greater Element I](https://leetcode.com/problems/unique-paths/) | [Python](./Python3/Next%20Greater%20Element%20I.py) / [Go](./Golang/Next%20Greater%20Element%20I.go) |
+485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [C#](./C%23/Max%20Consecutive%20Ones.cs) / [Python](./Python3/Max%20Consecutive%20Ones.py) / [Go](./Golang/Max%20Consecutive%20Ones.go) |
 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C#](https://github.com/brandt84828/leetcode/blob/7bffce70a1682fd012a6ab7a332f3d05931d3155/C%23/FizzBuzz.cs) / [Python](./Python3/Fizz%20Buzz.py) / [Go](./Golang/Fizz%20Buzz.go) |
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/FirstUniqueCharacterInAString.cs)
 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Python](./Python3/Ransom%20Note.py) / [Go](./Golang/Ransom%20Note.go) |
