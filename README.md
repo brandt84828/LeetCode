@@ -64,7 +64,7 @@
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C#](./C%23/Maximum%20Depth%20of%20Binary%20Tree.cs) / [Python](./Python3/MaximumDepthOfBinaryTree.py) / [Go](./Golang/MaximumDepthOfBinaryTree.go) |
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C#](./C%23/Same%20Tree.cs) / [Python](./Python3/SameTree.py) / [Go](./Golang/SameTree.go) |
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C#](./C%23/Merge%20Two%20Sorted%20Lists.cs) / [Python](./Python3/Merge%20Sorted%20Array.py) / [Go](./Golang/Merge%20Sorted%20Array.go) |
-83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C#](https://github.com/brandt84828/leetcode/blob/50b26283d8ce2ed9fedc4d401510eeec111e685f/C%23/Remove%20Duplicates%20from%20Sorted%20List.cs)
+83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C#](./C%23/Remove%20Duplicates%20from%20Sorted%20List.cs) / [Python](./Python3/Remove%20Duplicates%20from%20Sorted%20List.py) / [Go](./Golang/Remove%20Duplicates%20from%20Sorted%20List.go) |
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C#](./C%23/Climbing%20Stairs.cs) / [Python](./Python3/Climbing%20Stairs.py) / [Go](./Golang/Climbing%20Stairs.go) | 
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Python3/PlusOne.py) / [Go](./Golang/PlusOne.go) |
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./Python3/Unique%20Paths.py) / [Go](./Golang/Unique%20Paths.go) |
