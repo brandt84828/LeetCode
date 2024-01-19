@@ -35,6 +35,7 @@
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C#](https://github.com/brandt84828/leetcode/blob/27d5d57513206e842d58a706fa99a1731cb015c3/C%23/ReverseString.cs) / [Python](./Python3/Reverse%20String.py) / [Go](./Golang/Reverse%20String.go) |
 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/MoveZeros.cs)
 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C#](./C%23/MissingNumber.cs) / [Python](./Python3/MissingNumber.py) / [Go](./Golang/MissingNumber.go) |
+263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python]() / [Go]() |
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./Python3/ValidAnagram.py) / [Go](./Golang/ValidAnagram.go)| 
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./Python3/Product%20of%20Array%20Except%20Self.py) / [Go](./Golang/Product%20of%20Array%20Except%20Self.go) |
 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C#](https://github.com/brandt84828/leetcode/blob/e60d4746789a47e828248e6cfcac012f2f10a7c1/C%23/Delete%20Node%20in%20a%20Linked%20List.cs)
