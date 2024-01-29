@@ -6,7 +6,7 @@
 3000 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [Python](./Python3/Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle.py) / [Go](./Golang/Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle.go) |
 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Python](./Python3/Number%20of%20Zero-Filled%20Subarrays.py) / [Go](./Golang/Number%20of%20Zero-Filled%20Subarrays.go) |
 2224 | [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) | [Python](./Python3/Minimum%20Number%20of%20Operations%20to%20Convert%20Time.py) / [Go](./Golang/Minimum%20Number%20of%20Operations%20to%20Convert%20Time.go) |
-2027 | [Minimum Moves to Convert String]() | [Python]() / [Go]() |
+2027 | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/) | [Python](./Python3/Minimum%20Moves%20to%20Convert%20String.py) / [Go](./Golang/Minimum%20Moves%20to%20Convert%20String.go) |
 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Python](./Python3/Check%20if%20the%20Sentence%20Is%20Pangram.py) / [Go](./Golang/Check%20if%20the%20Sentence%20Is%20Pangram.go) |
 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) | [Python](./Python3/Merge%20Strings%20Alternately.py) / [Go](./Golang/Merge%20Strings%20Alternately.go) |
 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Python](./Python3/Richest%20Customer%20Wealth.py) / [Go](./Golang/Richest%20Customer%20Wealth.go) |
