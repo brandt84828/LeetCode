@@ -21,6 +21,7 @@
 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/) | [Python](./Python3/Unique%20Number%20of%20Occurrences.py) / [Go](./Golang/Unique%20Number%20of%20Occurrences.go) |
 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Python](./Python3/Maximum%20Number%20of%20Balloons.py) / [Go](./Golang/Maximum%20Number%20of%20Balloons.go) |
 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./Python3/Longest%20Common%20Subsequence.py) / [Go](./Golang/Longest%20Common%20Subsequence.go) |
+1133 | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/description/) | [Python](./Python3/Largest%20Unique%20Number.py) |
 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Python](./Python3/Max%20Consecutive%20Ones%20III.py) / [Go](./Golang/Max%20Consecutive%20Ones%20III.go) |
 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [Python](./Python3/Find%20Common%20Characters.py) / [Go](./Golang/Find%20Common%20Characters.go) |
 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./Python3/Squares%20of%20a%20Sorted%20Array.py) / [Go](./Golang/Squares%20of%20a%20Sorted%20Array.go) |
