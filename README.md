@@ -4,7 +4,7 @@
 \#           | Title  | Solution |
 :--------------:|:-----:|:-----:|
 3000 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [Python](./Python3/Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle.py) / [Go](./Golang/Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle.go) |
-2833 | [Furthest Point From Origin]() | [Python]() / [Go]() |
+2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) | [Python](./Python3/Furthest%20Point%20From%20Origin.py) / [Go](./Golang/Furthest%20Point%20From%20Origin.go) |
 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Python](./Python3/Number%20of%20Zero-Filled%20Subarrays.py) / [Go](./Golang/Number%20of%20Zero-Filled%20Subarrays.go) |
 2231 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/furthest-point-from-origin/) | [Python](./Python3/Largest%20Number%20After%20Digit%20Swaps%20by%20Parity.py) / [Go](./Golang/Largest%20Number%20After%20Digit%20Swaps%20by%20Parity.go) |
 2224 | [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) | [Python](./Python3/Minimum%20Number%20of%20Operations%20to%20Convert%20Time.py) / [Go](./Golang/Minimum%20Number%20of%20Operations%20to%20Convert%20Time.go) |
