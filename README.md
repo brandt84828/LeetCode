@@ -5,6 +5,7 @@
 :--------------:|:-----:|:-----:|
 3000 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [Python](./Python3/Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle.py) / [Go](./Golang/Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle.go) |
 2966 | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) / [Python](./Python3/Divide%20Array%20Into%20Arrays%20With%20Max%20Difference.py) / [Go](./Golang/Divide%20Array%20Into%20Arrays%20With%20Max%20Difference.go) |
+2965 | [Find Missing and Repeated Values]() | [Python]() / [Go]() |
 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) | [Python](./Python3/Furthest%20Point%20From%20Origin.py) / [Go](./Golang/Furthest%20Point%20From%20Origin.go) |
 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [Python](./Python3/Buy%20Two%20Chocolates.py) / [Go](./Golang/Buy%20Two%20Chocolates.go) |
 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Python](./Python3/Number%20of%20Zero-Filled%20Subarrays.py) / [Go](./Golang/Number%20of%20Zero-Filled%20Subarrays.go) |
