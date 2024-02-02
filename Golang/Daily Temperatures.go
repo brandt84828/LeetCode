@@ -18,3 +18,17 @@ func dailyTemperatures(temperatures []int) []int {
     }
     return result
 }
+
+//Brute Force Go can pass but slowly
+func dailyTemperatures(T []int) []int {
+	res, j := make([]int, len(T)), 0
+	for i := 0; i < len(T); i++ {
+		for j = i + 1; j < len(T); j++ {
+			if T[j] > T[i] {
+				res[i] = j - i
+				break
+			}
+		}
+	}
+	return res
+}
