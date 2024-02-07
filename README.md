@@ -91,7 +91,7 @@
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./Python3/Length%20of%20Last%20Word.py) / [Go](./Golang/Length%20of%20Last%20Word.go) |
 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./Python3/Jump%20Game.py) / [Go](./Golang/Jump%20Game.go) |
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./Python3/Maximum%20Subarray.py) / [Go](./Golang/Maximum%20Subarray.go) |
-49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./Python3/GroupAnagrams.py) / [Go](./Python3/GroupAnagrams.py) |
+49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./Python3/Group%20Anagrams.py) / [Go](./Golang/Group%20Anagrams.go) |
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./Python3/Search%20Insert%20Position.py) / [Go](./Golang/Search%20Insert%20Position.go) |
 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./Python3/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py) / [Go](./Golang/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.go) |
 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./Python3/Search%20in%20Rotated%20Sorted%20Array.py) / [Go](./Golang/Search%20in%20Rotated%20Sorted%20Array.go) |

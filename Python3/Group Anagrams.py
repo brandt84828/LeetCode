@@ -1,3 +1,4 @@
+#1
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
 
@@ -10,3 +11,12 @@ class Solution:
             ans[tuple(count)].append(s)
         
         return ans.values()
+
+#2
+class Solution:
+  def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+    res = defaultdict(list)
+    for s in strs:
+      res[''.join(sorted(s))].append(s)
+    
+    return list(res.values())
