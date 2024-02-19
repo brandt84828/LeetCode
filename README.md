@@ -7,7 +7,7 @@
 2966 | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) / [Python](./Python3/Divide%20Array%20Into%20Arrays%20With%20Max%20Difference.py) / [Go](./Golang/Divide%20Array%20Into%20Arrays%20With%20Max%20Difference.go) |
 2965 | [Find Missing and Repeated Values]() | [Python]() / [Go]() |
 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) | [Python](./Python3/Furthest%20Point%20From%20Origin.py) / [Go](./Golang/Furthest%20Point%20From%20Origin.go) |
-2778 | [Sum of Squares of Special Elements]() | [Python]() / [Go]() |
+2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Python](./Python3/Sum%20of%20Squares%20of%20Special%20Elements.py) / [Go](./Golang/Sum%20of%20Squares%20of%20Special%20Elements.go) |
 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [Python](./Python3/Buy%20Two%20Chocolates.py) / [Go](./Golang/Buy%20Two%20Chocolates.go) |
 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | [Python](./Python3/First%20Letter%20to%20Appear%20Twice.py) / [Go](./Golang/First%20Letter%20to%20Appear%20Twice.go) |
 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Python](./Python3/Number%20of%20Zero-Filled%20Subarrays.py) / [Go](./Golang/Number%20of%20Zero-Filled%20Subarrays.go) |
