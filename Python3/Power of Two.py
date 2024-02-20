@@ -1,24 +1,28 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 20 11:08:49 2018
+#1
+class Solution:
+    def isPowerOfTwo(self, n: int) -> bool:
+        count = 0
 
-@author: brandt84828
-"""
+        while n > 0:
+            count = count + (n & 1)
+            n = n >> 1
 
-n = 4
+        return count == 1
 
-class Solution(object):
-def isPowerOfTwo(self, n):
-    """
-    :type n: int
-    :rtype: bool
-    """
-    if n <= 0:
-        return False
-    
-    while(n%2==0):
-        n = n//2
-    if n == 1:
-        return True
-    else:
-        return False
+#2
+class Solution:
+    def isPowerOfTwo(self, n: int) -> bool:
+        s = bin(n)
+        s = str(s)
+
+        s = s.replace("0" , "")[1:];
+        print(s)
+        if(len(s) == 1):
+            return True
+        else:
+            return False
+
+#3
+class Solution:
+    def isPowerOfTwo(self, n: int) -> bool:
+       return n > 0 and not(n & (n - 1))
