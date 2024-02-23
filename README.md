@@ -39,6 +39,7 @@
 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Python](./Python3/Greatest%20Common%20Divisor%20of%20Strings.py) / [Go](./Golang/Greatest%20Common%20Divisor%20of%20Strings.go) |
 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Python](./Python3/Max%20Consecutive%20Ones%20III.py) / [Go](./Golang/Max%20Consecutive%20Ones%20III.go) |
 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [Python](./Python3/Find%20Common%20Characters.py) / [Go](./Golang/Find%20Common%20Characters.go) |
+997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Python](./Python3/Find%20the%20Town%20Judge.py) / [Go](./Golang/Find%20the%20Town%20Judge.go) |
 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./Python3/Squares%20of%20a%20Sorted%20Array.py) / [Go](./Golang/Squares%20of%20a%20Sorted%20Array.go) |
 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Python](./Python3/Check%20Completeness%20of%20a%20Binary%20Tree.py) / [Go](./Golang/Check%20Completeness%20of%20a%20Binary%20Tree.go) |
 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [C#](https://github.com/brandt84828/leetcode/blob/d0dc95bd703953ed1b78aefd2b815a7cedb8c5cb/C%23/Validate%20Stack%20Sequences.cs)
