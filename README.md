@@ -48,6 +48,7 @@
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](./Python3/Jewels%20and%20Stones.py) / [Go](./Golang/Jewels%20and%20Stones.go) |
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](./Python3/Min%20Cost%20Climbing%20Stairs.py) / [Go](./Golang/Min%20Cost%20Climbing%20Stairs.go) |
 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./Python3/Daily%20Temperatures.py) / [Go](./Golang/Daily%20Temperatures.go) |
+724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./Python3/Find%20Pivot%20Index.py) / [Go](./Golang/Find%20Pivot%20Index.go) |
 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./Python3/BinarySearch.py) / [Go](./Golang/BinarySearch.go) |
 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [C#](https://github.com/brandt84828/leetcode/blob/cfbdf0ff268840a0b526ab072c3ef9bc5c650d1e/C%23/Search%20in%20a%20Binary%20Search%20Tree.cs)
 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Python](./Python3/Set%20Mismatch.py) / [Go](./Golang/Set%20Mismatch.go) |
