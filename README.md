@@ -44,6 +44,7 @@
 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./Python3/Squares%20of%20a%20Sorted%20Array.py) / [Go](./Golang/Squares%20of%20a%20Sorted%20Array.go) |
 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Python](./Python3/Check%20Completeness%20of%20a%20Binary%20Tree.py) / [Go](./Golang/Check%20Completeness%20of%20a%20Binary%20Tree.go) |
 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [C#](https://github.com/brandt84828/leetcode/blob/d0dc95bd703953ed1b78aefd2b815a7cedb8c5cb/C%23/Validate%20Stack%20Sequences.cs)
+933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Python](./Python3/Number%20of%20Recent%20Calls.py) / [Go](./Golang/Number%20of%20Recent%20Calls.go) |
 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Python](./Python3/Middle%20of%20the%20Linked%20List.py) / [Go](./Golang/Middle%20of%20the%20Linked%20List.go) |
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](./Python3/Jewels%20and%20Stones.py) / [Go](./Golang/Jewels%20and%20Stones.go) |
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](./Python3/Min%20Cost%20Climbing%20Stairs.py) / [Go](./Golang/Min%20Cost%20Climbing%20Stairs.go) |
