@@ -100,7 +100,7 @@
 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python](./Python3/Maximum%20Product%20Subarray.py) / [Go](./Golang/Maximum%20Product%20Subarray.go) |
 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./Python3/Reverse%20Words%20in%20a%20String.py) / [Go](./Golang/Reverse%20Words%20in%20a%20String.go) |
 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](./Python3/Evaluate%20Reverse%20Polish%20Notation.py) / [Go](./Golang/Evaluate%20Reverse%20Polish%20Notation.go) |
-141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C#](https://github.com/brandt84828/leetcode/blob/bb7e4421fb51f376ee2c975728cf1f5bf1072bb6/C%23/Linked%20List%20Cycle.cs)
+141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C#](./C%23/Linked%20List%20Cycle.cs) / [Python](./Python3/Linked%20List%20Cycle.py) / [Go](./Golang/Linked%20List%20Cycle.go) |
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C#](./C%23/SingleNumber.cs) / [Python](./Python3/SingleNumber.py) / [Go](./Golang/SingleNumber.go) |
 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Python](./Python3/Sum%20Root%20to%20Leaf%20Numbers.py) / [Go](./Golang/Sum%20Root%20to%20Leaf%20Numbers.go) |
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C#](./C%23/ValidPalindrome.cs) / [Python](./Python3/ValidPalindrome.py) / [Go](./Golang/ValidPalindrome.go) |
