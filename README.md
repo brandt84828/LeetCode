@@ -48,6 +48,7 @@
 948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [Python](./Python3/Bag%20of%20Tokens.py) / [Go](./Golang/Bag%20of%20Tokens.go) |
 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [C#](https://github.com/brandt84828/leetcode/blob/d0dc95bd703953ed1b78aefd2b815a7cedb8c5cb/C%23/Validate%20Stack%20Sequences.cs)
 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Python](./Python3/Number%20of%20Recent%20Calls.py) / [Go](./Golang/Number%20of%20Recent%20Calls.go) |
+901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Python](./Python3/Online%20Stock%20Span.py) / [Go](./Golang/Online%20Stock%20Span.go) |
 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Python](./Python3/Middle%20of%20the%20Linked%20List.py) / [Go](./Golang/Middle%20of%20the%20Linked%20List.go) |
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](./Python3/Jewels%20and%20Stones.py) / [Go](./Golang/Jewels%20and%20Stones.go) |
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](./Python3/Min%20Cost%20Climbing%20Stairs.py) / [Go](./Golang/Min%20Cost%20Climbing%20Stairs.go) |
