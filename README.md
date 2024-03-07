@@ -40,6 +40,7 @@
 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./Python3/Longest%20Common%20Subsequence.py) / [Go](./Golang/Longest%20Common%20Subsequence.go) |
 1133 | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/description/) | [Python](./Python3/Largest%20Unique%20Number.py) |
 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Python](./Python3/Greatest%20Common%20Divisor%20of%20Strings.py) / [Go](./Golang/Greatest%20Common%20Divisor%20of%20Strings.go) |
+1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Python]() / [Go]() |
 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Python](./Python3/Max%20Consecutive%20Ones%20III.py) / [Go](./Golang/Max%20Consecutive%20Ones%20III.go) |
 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [Python](./Python3/Find%20Common%20Characters.py) / [Go](./Golang/Find%20Common%20Characters.go) |
 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Python](./Python3/Find%20the%20Town%20Judge.py) / [Go](./Golang/Find%20the%20Town%20Judge.go) |
