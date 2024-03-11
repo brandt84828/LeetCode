@@ -56,6 +56,7 @@
 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./Python3/Daily%20Temperatures.py) / [Go](./Golang/Daily%20Temperatures.go) |
 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./Python3/Find%20Pivot%20Index.py) / [Go](./Golang/Find%20Pivot%20Index.go) |
 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./Python3/BinarySearch.py) / [Go](./Golang/BinarySearch.go) |
+701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Python](./Python3/Insert%20into%20a%20Binary%20Search%20Tree.py) / [Go](./Golang/Insert%20into%20a%20Binary%20Search%20Tree.go) |
 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [C#](./C%23/Search%20in%20a%20Binary%20Search%20Tree.cs) / [Python](./Python3/Search%20in%20a%20Binary%20Search%20Tree.py) / [Go](./Golang/Search%20in%20a%20Binary%20Search%20Tree.go) |
 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Python](./Python3/Set%20Mismatch.py) / [Go](./Golang/Set%20Mismatch.go) |
 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](./Python3/Maximum%20Average%20Subarray%20I.py) / [Go](./Golang/Maximum%20Average%20Subarray%20I.go) |
