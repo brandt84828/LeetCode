@@ -32,6 +32,7 @@
 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/description/) | [Python](./Python3/Make%20The%20String%20Great.py) / [Go](./Golang/Make%20The%20String%20Great.go) |
 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Python](./Python3/Count%20Odd%20Numbers%20in%20an%20Interval%20Range.py) / [Go](./Golang/Count%20Odd%20Numbers%20in%20an%20Interval%20Range.go) |
 1480 | [Running Sum Of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | [Python](./Python3/Running%20Sum%20of%201d%20Array.py) / [Go](./Golang/Running%20Sum%20of%201d%20Array.go) |
+1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [Python](./Python3/Destination%20City.py) / [Go](./Golang/Destination%20City.go) |
 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](./Python3/Kids%20With%20the%20Greatest%20Number%20of%20Candies.py) / [Go](./Golang/Kids%20With%20the%20Greatest%20Number%20of%20Candies.go) |
 1426 | [Counting Elements](https://leetcode.com/problems/counting-elements/description/) | [Python](./Python3/Counting%20Elements.py) |
 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Python](./Python3/Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.py) / [Go](./Golang/Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.go) |
