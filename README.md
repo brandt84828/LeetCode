@@ -3,6 +3,7 @@
 
 \#           | Title  | Solution |
 :--------------:|:-----:|:-----:|
+3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [Python](./Python3/Count%20Elements%20With%20Maximum%20Frequency.py) / [Go](./Golang/Count%20Elements%20With%20Maximum%20Frequency.go) |
 3000 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [Python](./Python3/Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle.py) / [Go](./Golang/Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle.go) |
 2966 | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | [Python](./Python3/Divide%20Array%20Into%20Arrays%20With%20Max%20Difference.py) / [Go](./Golang/Divide%20Array%20Into%20Arrays%20With%20Max%20Difference.go) |
 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Python](./Python3/Find%20Missing%20and%20Repeated%20Values.py) / [Go](./Golang/Find%20Missing%20and%20Repeated%20Values.go) |
