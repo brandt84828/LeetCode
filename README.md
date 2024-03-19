@@ -87,6 +87,7 @@
 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python](./Python3/Reverse%20Vowels%20of%20a%20String.py) / [Go](./Golang/Reverse%20Vowels%20of%20a%20String.go) |
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C#](https://github.com/brandt84828/leetcode/blob/27d5d57513206e842d58a706fa99a1731cb015c3/C%23/ReverseString.cs) / [Python](./Python3/Reverse%20String.py) / [Go](./Golang/Reverse%20String.go) |
 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Python](./Python3/Counting%20Bits.py) / [Go](./Golang/Counting%20Bits.go) |
+334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Python]() / [Go]() |
 323 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | [Python](./Python3/Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph.py) |
 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Python](./Python3/Bulb%20Switcher.py) / [Go](./Golang/Bulb%20Switcher.go) |
 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/MoveZeros.cs)
