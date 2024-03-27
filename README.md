@@ -83,6 +83,7 @@
 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python]() / [Go]() |
 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Python](./Python3/Sort%20Characters%20By%20Frequency.py) / [Go](./Golang/Sort%20Characters%20By%20Frequency.go) |
 443 | [String Compression](https://leetcode.com/problems/string-compression/) | [Python](./Python3/String%20Compression.py) / [Go](./Golang/String%20Compression.go) |
+442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Python](./Python3/Find%20All%20Duplicates%20in%20an%20Array.py) / [Go](./Golang/Assign%20Cookies.go) |
 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C#](https://github.com/brandt84828/leetcode/blob/7bffce70a1682fd012a6ab7a332f3d05931d3155/C%23/FizzBuzz.cs) / [Python](./Python3/Fizz%20Buzz.py) / [Go](./Golang/Fizz%20Buzz.go) |
 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Python](./Python3/Decode%20String.py) / [Go](./Golang/Decode%20String.go) |
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./Python3/Is%20Subsequence.py) / [Go](./Golang/Is%20Subsequence.go) |
