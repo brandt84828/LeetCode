@@ -154,7 +154,7 @@
 27 | [Remove Elements](https://leetcode.com/problems/remove-element/) | [C#](./C%23/Remove%20Element.cs) / [Python](./Python3/Remove%20Element.py) / [Go](./Golang/Remove%20Element.go) |
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/RemoveDuplicatesFromSortedArray.cs) / [Python](./Python3/Remove%20Duplicates%20from%20Sorted%20Array.py) / [Go](./Golang/Remove%20Duplicates%20from%20Sorted%20Array.go) |
 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C#](./C%23/Swap%20Nodes%20in%20Pairs.cs) / [Python](./Python3/Swap%20Nodes%20in%20Pairs.py) / [Go](./Golang/Swap%20Nodes%20in%20Pairs.go) |
-22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python3] / [Go] |
+22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python3](./Python3/Generate%20Parentheses.py) / [Go](./Golang/Generate%20Parentheses.go) |
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C#](./C%23/Merge%20Two%20Sorted%20Lists.cs) / [Python](./Python3/Merge%20Two%20Sorted%20Lists.py) / [Go](./Golang/Merge%20Two%20Sorted%20Lists.go) | 
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C#](./C%23/ValidParentheses.cs) / [Python](./Python3/ValidParentheses.py) / [Go](./Golang/ValidParentheses.go) |
 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./Python3/Remove%20Nth%20Node%20From%20End%20of%20List.py) / [Go](./Golang/Remove%20Nth%20Node%20From%20End%20of%20List.go) |
