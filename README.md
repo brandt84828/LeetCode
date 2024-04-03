@@ -12,6 +12,7 @@
 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) | [Python](./Python3/Furthest%20Point%20From%20Origin.py) / [Go](./Golang/Furthest%20Point%20From%20Origin.go) |
 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Python](./Python3/Sum%20of%20Squares%20of%20Special%20Elements.py) / [Go](./Golang/Sum%20of%20Squares%20of%20Special%20Elements.go) |
 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [Python](./Python3/Buy%20Two%20Chocolates.py) / [Go](./Golang/Buy%20Two%20Chocolates.go) |
+2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [Python](./Python3/Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range.py) / [Go](./Golang/Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range.go) |
 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [Python](./Python3/Minimum%20Common%20Value.py) / [Go](./Golang/Minimum%20Common%20Value.go) |
 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | [Python](./Python3/Find%20the%20Pivot%20Integer.py) / [Go](./Golang/Find%20the%20Pivot%20Integer.go) |
 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [Python](./Python3/Removing%20Stars%20From%20a%20String.py) / [Go](./Golang/Removing%20Stars%20From%20a%20String.go) |
