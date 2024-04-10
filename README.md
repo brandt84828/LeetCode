@@ -56,6 +56,7 @@
 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Python](./Python3/Sequential%20Digits.py) / [Go](./Golang/Sequential%20Digits.go) |
 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/) | [Python](./Python3/Unique%20Number%20of%20Occurrences.py) / [Go](./Golang/Unique%20Number%20of%20Occurrences.go) |
 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Python](./Python3/Maximum%20Number%20of%20Balloons.py) / [Go](./Golang/Maximum%20Number%20of%20Balloons.go) |
+1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Python](./Python3/Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.py) / [Go](./Golang/Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.go) |
 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./Python3/Longest%20Common%20Subsequence.py) / [Go](./Golang/Longest%20Common%20Subsequence.go) |
 1133 | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/description/) | [Python](./Python3/Largest%20Unique%20Number.py) |
 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Python](./Python3/Greatest%20Common%20Divisor%20of%20Strings.py) / [Go](./Golang/Greatest%20Common%20Divisor%20of%20Strings.go) |
