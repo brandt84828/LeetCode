@@ -108,6 +108,7 @@
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./Python3/Is%20Subsequence.py) / [Go](./Golang/Is%20Subsequence.go) |
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C#](./C%23/FirstUniqueCharacterInAString.cs) / [Python](./Python3/First%20Unique%20Character%20in%20a%20String.py) / [Go](./Golang/First%20Unique%20Character%20in%20a%20String.go) |
 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Python](./Python3/Ransom%20Note.py) / [Go](./Golang/Ransom%20Note.go) |
+380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python](./Python3/Insert%20Delete%20GetRandom%20O(1).py) / [Go](./Golang/Insert%20Delete%20GetRandom%20O(1).go) |
 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Python](./Python3/Guess%20Number%20Higher%20or%20Lower.py) / [Go](./Golang/Guess%20Number%20Higher%20or%20Lower.go) |
 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./Python3/Top_K_FrequentElements.py) / [Go](./Golang/Top_K_FrequentElements.go) |
 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [Python](./Python3/Moving%20Average%20from%20Data%20Stream.py) |
