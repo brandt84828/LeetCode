@@ -68,6 +68,7 @@
 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Python](./Python3/Max%20Consecutive%20Ones%20III.py) / [Go](./Golang/Max%20Consecutive%20Ones%20III.go) |
 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [Python](./Python3/Find%20Common%20Characters.py) / [Go](./Golang/Find%20Common%20Characters.go) |
 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Python](./Python3/Find%20the%20Town%20Judge.py) / [Go](./Golang/Find%20the%20Town%20Judge.go) |
+988 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [Python](./Python3/Smallest%20String%20Starting%20From%20Leaf.py) / [Go](./Golang/Smallest%20String%20Starting%20From%20Leaf.go) |
 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./Python3/Squares%20of%20a%20Sorted%20Array.py) / [Go](./Golang/Squares%20of%20a%20Sorted%20Array.go) |
 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Python](./Python3/Check%20Completeness%20of%20a%20Binary%20Tree.py) / [Go](./Golang/Check%20Completeness%20of%20a%20Binary%20Tree.go) |
 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](./Python3/Reveal%20Cards%20In%20Increasing%20Order.py) / [Go](./Golang/Reveal%20Cards%20In%20Increasing%20Order.go) |
