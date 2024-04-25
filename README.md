@@ -78,7 +78,8 @@
 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Python](./Python3/Check%20Completeness%20of%20a%20Binary%20Tree.py) / [Go](./Golang/Check%20Completeness%20of%20a%20Binary%20Tree.go) |
 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](./Python3/Reveal%20Cards%20In%20Increasing%20Order.py) / [Go](./Golang/Reveal%20Cards%20In%20Increasing%20Order.go) |
 948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [Python](./Python3/Bag%20of%20Tokens.py) / [Go](./Golang/Bag%20of%20Tokens.go) |
-946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [C#](https://github.com/brandt84828/leetcode/blob/d0dc95bd703953ed1b78aefd2b815a7cedb8c5cb/C%23/Validate%20Stack%20Sequences.cs)
+946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [C#](https://github.com/brandt84828/leetcode/blob/d0dc95bd703953ed1b78aefd2b815a7cedb8c5cb/C%23/Validate%20Stack%20Sequences.cs) |
+938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](./Python3/Range%20Sum%20of%20BST.py) / [Go](./Golang/Range%20Sum%20of%20BST.go) |
 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Python](./Python3/Number%20of%20Recent%20Calls.py) / [Go](./Golang/Number%20of%20Recent%20Calls.go) |
 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Python](./Python3/Online%20Stock%20Span.py) / [Go](./Golang/Online%20Stock%20Span.go) |
 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Python](./Python3/Middle%20of%20the%20Linked%20List.py) / [Go](./Golang/Middle%20of%20the%20Linked%20List.go) |
