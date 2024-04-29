@@ -1,0 +1,44 @@
+#1
+class Solution:
+    def lengthOfLIS(self, nums: List[int]) -> int:
+        tails = [0] * len(nums)
+        size = 0
+        for x in nums:
+            i, j = 0, size
+            while i != j:
+                m = (i + j) // 2
+                if tails[m] < x:
+                    i = m + 1
+                else:
+                    j = m
+            tails[i] = x
+            size = max(i + 1, size)
+        return size
+
+'''
+????????????? ,
+???????dp ?
+????0 ,??0 ?
+?? Binary Search  8  ,??dp???0 ,8??0 ,?????8 ?
+
+?? Binary Search   4 ,??dp??0-8??,?? ????0 4 8 ,????0 4 ,??4<8 ??0 4 8 ,
+?????? 8?
+
+?? Binary Search   12 ,??12 ?? , ??????? 0 4 12 ?
+?? Binary Search   2 ,2??0-4 ,??4 ,??0?2?12 ?
+
+????????? ,???? ?
+'''
+
+#2
+class Solution:
+    def lengthOfLIS(self, nums: List[int]) -> int:
+        n = len(nums)
+        dp = [1] * n
+        for i in range(n):
+            maxval = 0
+            for j in range(i):
+                if nums[i] > nums[j]:
+                    maxval = max(maxval, dp[j])
+            dp[i] = maxval + 1
+        return max(dp)
