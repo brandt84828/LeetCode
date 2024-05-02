@@ -14,7 +14,8 @@
 2880 | [Select Data](https://leetcode.com/problems/select-data/) | [Pandas](./Pandas/Select%20Data.py) |
 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | [Pandas](./Pandas/Display%20the%20First%20Three%20Rows.py) |
 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/) | [Pandas](./Pandas/Get%20the%20Size%20of%20a%20DataFrame.py) |
-2877 | [Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/) | [Pandas](./Pandas/Create%20a%20DataFrame%20from%20List.py)
+2877 | [Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/) | [Pandas](./Pandas/Create%20a%20DataFrame%20from%20List.py) |
+2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [Python](./Python3/Maximum%20Odd%20Binary%20Number.py) / [Go](./Golang/Maximum%20Odd%20Binary%20Number.go) |
 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) | [Python](./Python3/Furthest%20Point%20From%20Origin.py) / [Go](./Golang/Furthest%20Point%20From%20Origin.go) |
 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Python](./Python3/Sum%20of%20Squares%20of%20Special%20Elements.py) / [Go](./Golang/Sum%20of%20Squares%20of%20Special%20Elements.go) |
 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [Python](./Python3/Buy%20Two%20Chocolates.py) / [Go](./Golang/Buy%20Two%20Chocolates.go) |
