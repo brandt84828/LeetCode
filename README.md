@@ -9,6 +9,7 @@
 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Python](./Python3/Find%20Missing%20and%20Repeated%20Values.py) / [Go](./Golang/Find%20Missing%20and%20Repeated%20Values.go) |
 2962 | [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | [Python](./Python3/Count%20Subarrays%20Where%20Max%20Element%20Appears%20at%20Least%20K%20Times.py) / [Go](./Golang/Count%20Subarrays%20Where%20Max%20Element%20Appears%20at%20Least%20K%20Times.go) |
 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | [Python](./Python3/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency.py) / [Go](./Golang/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency.go) |
+2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | [Pandas](./Pandas/Modify%20Columns.py) |
 2883 | [Drop Missing Data](https://leetcode.com/problems/drop-missing-data/) | [Pandas](./Pandas/Drop%20Missing%20Data.py) |
 2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/)| [Pandas](./Pandas/Drop%20Duplicate%20Rows.py) |
 2881 | [Create a New Column](https://leetcode.com/problems/create-a-new-column/) | [Pandas](./Pandas/Create%20a%20New%20Column.py) |
