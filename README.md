@@ -164,7 +164,7 @@
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python](./Python3/House%20Robber.py) / [Go](./Golang/House%20Robber.go) |
 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python](./Python3/NumberOf1Bits.py) / [Go](./Golang/NumberOf1Bits.go) |
 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python](./Python3/ReverseBits.py) / [Go](./Golang/ReverseBits.go) |
-171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C#](https://github.com/brandt84828/leetcode/blob/d775dc97d2ea79aee01d6b942d3e0e6d7fb66b37/C%23/ExcelSheetColumnNumber.cs) / [Python]() / [Go]() |
+171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C#](https://github.com/brandt84828/leetcode/blob/d775dc97d2ea79aee01d6b942d3e0e6d7fb66b37/C%23/ExcelSheetColumnNumber.cs) / [Python](./Python3/Excel%20Sheet%20Column%20Number.py) / [Go](./Golang/Excel%20Sheet%20Column%20Number.go) |
 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./Python3/Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) / [Go](./Golang/Find%20Minimum%20in%20Rotated%20Sorted%20Array.go) |
 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python](./Python3/Maximum%20Product%20Subarray.py) / [Go](./Golang/Maximum%20Product%20Subarray.go) |
 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./Python3/Reverse%20Words%20in%20a%20String.py) / [Go](./Golang/Reverse%20Words%20in%20a%20String.go) |
