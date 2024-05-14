@@ -38,6 +38,7 @@
 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | [Python](./Python3/Finding%203-Digit%20Even%20Numbers.py) / [Go](./Golang/Finding%203-Digit%20Even%20Numbers.go) |
 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | [PYthon](./Python3/K%20Radius%20Subarray%20Averages.py) / [Go](./Golang/K%20Radius%20Subarray%20Averages.go) |
 2027 | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/) | [Python](./Python3/Minimum%20Moves%20to%20Convert%20String.py) / [Go](./Golang/Minimum%20Moves%20to%20Convert%20String.go) |
+2012 | [Sum of Beauty in the Array](https://leetcode.com/problems/sum-of-beauty-in-the-array/) | [Python](./Python3/Sum%20of%20Beauty%20in%20the%20Array.py) / [Go](./Golang/Sum%20of%20Beauty%20in%20the%20Array.go) |
 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [Python](./Python3/Reverse%20Prefix%20of%20Word.py) / [Go](./Golang/Reverse%20Prefix%20of%20Word.go) |
 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [Python](./Python3/Find%20the%20Middle%20Index%20in%20Array.py) / [Go](./Golang/Find%20the%20Middle%20Index%20in%20Array.go) |
 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Python](./Python3/Find%20if%20Path%20Exists%20in%20Graph.py) / [Go](./Golang/Find%20if%20Path%20Exists%20in%20Graph.go) |
