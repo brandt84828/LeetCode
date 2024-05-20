@@ -223,6 +223,7 @@
 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](./Python3/IntegerToRoman.py) / [Go](./Golang/IntegerToRoman.go) |
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C#](./C%23/Container%20With%20Most%20Water.cs) / [Python](./Python3/ContainerWithMostWater.py) / [Go](./Golang/ContainerWithMostWater.go) |
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./Python3/PalindromeNumber.py) / [Go](./Golang/PalindromeNumber.go) |
+8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./Python3/String%20to%20Integer%20(atoi).py) / [Go](./Golang/String%20to%20Integer%20(atoi).go) |
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C#](./C%23/ReverseInteger.cs) / [Python](./Python3/ReverseInteger.py) / [Go](./Golang/ReverseInteger.go) |
 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](./Python3/Zigzag%20Conversion.py) / [Go](./Golang/Zigzag%20Conversion.go) |
 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python]() / [Go]() |
