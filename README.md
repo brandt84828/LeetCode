@@ -140,6 +140,7 @@
 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Python](./Python3/Ransom%20Note.py) / [Go](./Golang/Ransom%20Note.go) |
 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python](./Python3/Insert%20Delete%20GetRandom%20O(1).py) / [Go](./Golang/Insert%20Delete%20GetRandom%20O(1).go) |
 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Python](./Python3/Guess%20Number%20Higher%20or%20Lower.py) / [Go](./Golang/Guess%20Number%20Higher%20or%20Lower.go) |
+349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](./Python3/Intersection%20of%20Two%20Arrays.py) / [Go](./Golang/Intersection%20of%20Two%20Arrays.go) |
 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./Python3/Top_K_FrequentElements.py) / [Go](./Golang/Top_K_FrequentElements.go) |
 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [Python](./Python3/Moving%20Average%20from%20Data%20Stream.py) |
 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python](./Python3/Reverse%20Vowels%20of%20a%20String.py) / [Go](./Golang/Reverse%20Vowels%20of%20a%20String.go) |
