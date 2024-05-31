@@ -159,7 +159,7 @@
 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Python](./Python3/Bulb%20Switcher.py) / [Go](./Golang/Bulb%20Switcher.go) |
 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](./Python3/Longest%20Increasing%20Subsequence.py) / [Go](./Golang/Longest%20Increasing%20Subsequence.go) |
 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Pythonl](./Python3/Find%20the%20Duplicate%20Number.py) / [Go](./Golang/Find%20the%20Duplicate%20Number.go) |
-283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | [C#](https://github.com/brandt84828/leetcode/blob/b4ceb675ee9a2beddbd68c22d588f07b8119d5da/C%23/MoveZeros.cs) |
+283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | [C#](./C#/MoveZeros.cs) / [Python](./Python3/Move%20Zeroes.py) / [Go](./Golang/Move%20Zeroes.go) |
 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python](./Python3/Perfect%20Squares.py) / [Go](./Golang/Perfect%20Squares.go) |
 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/description/) | [Python](./Python3/Closest%20Binary%20Search%20Tree%20Value.py)|
 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C#](./C%23/MissingNumber.cs) / [Python](./Python3/MissingNumber.py) / [Go](./Golang/MissingNumber.go) |
