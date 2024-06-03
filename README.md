@@ -124,6 +124,7 @@
 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](./Python3/Maximum%20Average%20Subarray%20I.py) / [Go](./Golang/Maximum%20Average%20Subarray%20I.go) |
 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Python](./Python3/Can%20Place%20Flowers.py) / [Go](./Golang/Can%20Place%20Flowers.go) |
 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [SQL](./SQL/Find%20Customer%20Referee.sql) / [Pandas](./Pandas/Find%20Customer%20Referee.py) |
+551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python](./Python3/Student%20Attendance%20Record%20I.py) / [Go](./Golang/Student%20Attendance%20Record%20I.go) |
 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./Python3/DiameterOfBinaryTree.py) / [Go](./Golang/DiameterOfBinaryTree.go) |
 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Python](./Python3/Contiguous%20Array.py) / [Go](./Golang/Contiguous%20Array.go) |
 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [Python](./Python3/Relative%20Ranks.py) | [Go](./Golang/Relative%20Ranks.go) |
