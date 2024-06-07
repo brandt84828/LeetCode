@@ -168,7 +168,7 @@
 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/description/) | [Python](./Python3/Closest%20Binary%20Search%20Tree%20Value.py)|
 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C#](./C%23/MissingNumber.cs) / [Python](./Python3/MissingNumber.py) / [Go](./Golang/MissingNumber.go) |
 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](./Python3/Ugly%20Number.py) / [Go](./Golang/Ugly%20Number.go) |
-260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python]() / [Go]() |
+260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./Python3/Single%20Number%20III.py) / [Go](./Golang/Single%20Number%20III.go) |
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./Python3/ValidAnagram.py) / [Go](./Golang/ValidAnagram.go)| 
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./Python3/Product%20of%20Array%20Except%20Self.py) / [Go](./Golang/Product%20of%20Array%20Except%20Self.go) |
 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C#](https://github.com/brandt84828/leetcode/blob/e60d4746789a47e828248e6cfcac012f2f10a7c1/C%23/Delete%20Node%20in%20a%20Linked%20List.cs)
