@@ -223,6 +223,7 @@
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Python3/PlusOne.py) / [Go](./Golang/PlusOne.go) |
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./Python3/Unique%20Paths.py) / [Go](./Golang/Unique%20Paths.go) |
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./Python3/Length%20of%20Last%20Word.py) / [Go](./Golang/Length%20of%20Last%20Word.go) |
+56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](./Python3/Merge%20Intervals.py) / [Go](./Golang/Merge%20Intervals.go) |
 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./Python3/Jump%20Game.py) / [Go](./Golang/Jump%20Game.go) |
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./Python3/Maximum%20Subarray.py) / [Go](./Golang/Maximum%20Subarray.go) |
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./Python3/Group%20Anagrams.py) / [Go](./Golang/Group%20Anagrams.go) |
