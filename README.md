@@ -96,6 +96,7 @@
 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Python](./Python3/Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.py) / [Go](./Golang/Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.go) |
 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./Python3/Longest%20Common%20Subsequence.py) / [Go](./Golang/Longest%20Common%20Subsequence.go) |
 1133 | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/description/) | [Python](./Python3/Largest%20Unique%20Number.py) |
+1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Python](./Python3/Relative%20Sort%20Array.py) / [Go](./Golang/Relative%20Sort%20Array.go) |
 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](./Python3/Defanging%20an%20IP%20Address.py) / [Go](./Golang/Defanging%20an%20IP%20Address.go) |
 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Python](./Python3/Greatest%20Common%20Divisor%20of%20Strings.py) / [Go](./Golang/Greatest%20Common%20Divisor%20of%20Strings.go) |
 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Python](./Python3/Maximum%20Difference%20Between%20Node%20and%20Ancestor.py) / [Go](./Golang/Maximum%20Difference%20Between%20Node%20and%20Ancestor.go) |
