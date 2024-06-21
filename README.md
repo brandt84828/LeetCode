@@ -220,6 +220,7 @@
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C#](./C%23/Remove%20Duplicates%20from%20Sorted%20List.cs) / [Python](./Python3/Remove%20Duplicates%20from%20Sorted%20List.py) / [Go](./Golang/Remove%20Duplicates%20from%20Sorted%20List.go) |
 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Python](./Python3/Word%20Search.py) / [Go](./Golang/Word%20Search.go) |
 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Python](./Python3/Subsets.py) / [Go](./Golang/Subsets.go) |
+75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Python](./Python3/Sort%20Colors.py) / [Go](./Golang/Sort%20Colors.go) |
 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python](./Python3/Simplify%20Path.py) / [Go](./Golang/Simplify%20Path.go) |
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C#](./C%23/Climbing%20Stairs.cs) / [Python](./Python3/Climbing%20Stairs.py) / [Go](./Golang/Climbing%20Stairs.go) | 
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Python3/PlusOne.py) / [Go](./Golang/PlusOne.go) |
