@@ -170,6 +170,7 @@
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C#](https://github.com/brandt84828/leetcode/blob/27d5d57513206e842d58a706fa99a1731cb015c3/C%23/ReverseString.cs) / [Python](./Python3/Reverse%20String.py) / [Go](./Golang/Reverse%20String.go) |
 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Python](./Python3/Counting%20Bits.py) / [Go](./Golang/Counting%20Bits.go) |
 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Python](./Python3/Increasing%20Triplet%20Subsequence.py) / [Go](./Golang/Increasing%20Triplet%20Subsequence.go) |
+330 | [Patching Array](https://leetcode.com/problems/patching-array/) | [Python](./Python3/Patching%20Array.py) | [Go](./Golang/Patching%20Array.go) |
 323 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | [Python](./Python3/Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph.py) |
 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Python](./Python3/Bulb%20Switcher.py) / [Go](./Golang/Bulb%20Switcher.go) |
 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](./Python3/Longest%20Increasing%20Subsequence.py) / [Go](./Golang/Longest%20Increasing%20Subsequence.go) |
