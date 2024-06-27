@@ -123,6 +123,7 @@
 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Python](./Python3/Leaf-Similar%20Trees.py) / [Go](./Golang/Leaf-Similar%20Trees.go) |
 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Python](./Python3/Transpose%20Matrix.py) / [Go](./Golang/Transpose%20Matrix.go) |
 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [Python](./Python3/Hand%20of%20Straights.py) / [Go](./Golang/Hand%20of%20Straights.go) |
+826 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | [Python](./Python3/Most%20Profit%20Assigning%20Work.py) / [Go](./Python3/Most%20Profit%20Assigning%20Work.py) |
 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Python](./Python3/Custom%20Sort%20String.py) / [Go](./Golang/Custom%20Sort%20String.go) |
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](./Python3/Jewels%20and%20Stones.py) / [Go](./Golang/Jewels%20and%20Stones.go) |
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](./Python3/Min%20Cost%20Climbing%20Stairs.py) / [Go](./Golang/Min%20Cost%20Climbing%20Stairs.go) |
