@@ -144,6 +144,7 @@
 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Python](./Python3/Set%20Mismatch.py) / [Go](./Golang/Set%20Mismatch.go) |
 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](./Python3/Maximum%20Average%20Subarray%20I.py) / [Go](./Golang/Maximum%20Average%20Subarray%20I.go) |
 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [Python](./Python3/Sum%20of%20Square%20Numbers.py) / [Go](./Golang/Sum%20of%20Square%20Numbers.go) |
+621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python](./Python3/Task%20Scheduler.py) / [Go](./Golang/Task%20Scheduler.go) |
 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Python](./Python3/Can%20Place%20Flowers.py) / [Go](./Golang/Can%20Place%20Flowers.go) |
 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [SQL](./SQL/Find%20Customer%20Referee.sql) / [Pandas](./Pandas/Find%20Customer%20Referee.py) |
 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python](./Python3/Student%20Attendance%20Record%20I.py) / [Go](./Golang/Student%20Attendance%20Record%20I.go) |
