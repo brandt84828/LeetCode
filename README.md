@@ -153,6 +153,7 @@
 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python](./Python3/Student%20Attendance%20Record%20I.py) / [Go](./Golang/Student%20Attendance%20Record%20I.go) |
 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./Python3/DiameterOfBinaryTree.py) / [Go](./Golang/DiameterOfBinaryTree.go) |
 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Python](./Python3/Contiguous%20Array.py) / [Go](./Golang/Contiguous%20Array.go) |
+523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Python](./Python3/Continuous%20Subarray%20Sum.py) / [Go](./Golang/Continuous%20Subarray%20Sum.go) |
 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [Python](./Python3/Relative%20Ranks.py) | [Go](./Golang/Relative%20Ranks.go) |
 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python](./Python3/Find%20Bottom%20Left%20Tree%20Value.py) / [Go](./Golang/Find%20Bottom%20Left%20Tree%20Value.go) |
 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [Python](./Python3/Relative%20Ranks.py) / [Go](./Golang/Relative%20Ranks.go) |
